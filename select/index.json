@@ -1,0 +1,88 @@
+{
+  "version": 1,
+  "base_track": "Kimino Shiranai Monogatari",
+  "base_artist": "supercell",
+  "createdAt": "2025-12-17T05:48:42.040276Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Kimino Shiranai Monogatari",
+      "artist": "supercell",
+      "has_synced": true,
+      "path": "select/01_Kimino_Shiranai_Monogatari_supercell.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Kimino Shiranai Monogatari - TV Edit",
+      "artist": "supercell",
+      "has_synced": false,
+      "path": "select/02_Kimino_Shiranai_Monogatari_-_TV_Edit_supercell.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Kimino Shiranai Monogatari",
+      "artist": "ClariS",
+      "has_synced": true,
+      "path": "select/03_Kimino_Shiranai_Monogatari_ClariS.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Kimino Shiranai Monogatari",
+      "artist": "Supercell",
+      "has_synced": true,
+      "path": "select/04_Kimino_Shiranai_Monogatari_Supercell.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "supercell - Kimino Shiranai Monogatari",
+      "artist": "spcl ryo",
+      "has_synced": true,
+      "path": "select/05_supercell_-_Kimino_Shiranai_Monogatari_spcl_ryo.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "KIMINO SHIRANAI MONOGATARI - from CrosSing",
+      "artist": "Kana Hanazawa",
+      "has_synced": true,
+      "path": "select/06_KIMINO_SHIRANAI_MONOGATARI_-_from_CrosSing_Kana_Hanazawa.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Kimino Shiranai Monogatari",
+      "artist": "supercell",
+      "has_synced": true,
+      "path": "select/07_Kimino_Shiranai_Monogatari_supercell.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Kimino Shiranai Monogatari - TV Edit",
+      "artist": "Supercell",
+      "has_synced": false,
+      "path": "select/08_Kimino_Shiranai_Monogatari_-_TV_Edit_Supercell.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Kimino Shiranai Monogatari",
+      "artist": "Supercell - Topic",
+      "has_synced": true,
+      "path": "select/09_Kimino_Shiranai_Monogatari_Supercell_-_Topic.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "君の知らない物語",
+      "artist": "supercell",
+      "has_synced": false,
+      "path": "select/pl_01_君の知らない物語_supercell.txt"
+    }
+  ]
+}
